@@ -1,4 +1,1 @@
-# Jobs me
-Programmer
-# Syntax me
-Pawn Code ##54%
+hi, i'm is socket's
